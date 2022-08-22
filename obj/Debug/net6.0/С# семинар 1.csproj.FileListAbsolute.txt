@@ -1,0 +1,15 @@
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.csproj.AssemblyReference.cache
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.AssemblyInfoInputs.cache
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.AssemblyInfo.cs
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.csproj.CoreCompileInputs.cache
+C:\Users\рп\Desktop\С# семинар 1\bin\Debug\net6.0\С# семинар 1.exe
+C:\Users\рп\Desktop\С# семинар 1\bin\Debug\net6.0\С# семинар 1.deps.json
+C:\Users\рп\Desktop\С# семинар 1\bin\Debug\net6.0\С# семинар 1.runtimeconfig.json
+C:\Users\рп\Desktop\С# семинар 1\bin\Debug\net6.0\С# семинар 1.dll
+C:\Users\рп\Desktop\С# семинар 1\bin\Debug\net6.0\С# семинар 1.pdb
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.dll
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\refint\С# семинар 1.dll
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.pdb
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\С# семинар 1.genruntimeconfig.cache
+C:\Users\рп\Desktop\С# семинар 1\obj\Debug\net6.0\ref\С# семинар 1.dll
