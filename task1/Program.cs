@@ -34,9 +34,9 @@ b = Int32.Parse(input2);
 
 if (a < b)
 {
-    Console.Write( b);
+    Console.Write("max =" + b);
 }
 else
 {
-    Console.Write(a);
+    Console.Write("max =" + a);
 }
