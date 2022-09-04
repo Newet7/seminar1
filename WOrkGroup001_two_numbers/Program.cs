@@ -17,7 +17,7 @@ if (b % a == 0)
 {
     Console.Write("b кратно a");
 }
-else{
-    reminder = a%b;
-    Console.WriteLine("не кратно, остаток" + reminder);
-}
+    else{
+        reminder = a%b;
+        Console.WriteLine("не кратно, остаток" + reminder);
+    }
